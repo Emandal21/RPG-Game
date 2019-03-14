@@ -1,0 +1,5 @@
+malek 15
+Player1 10
+Player2 9
+Player3 8
+Player4 7
